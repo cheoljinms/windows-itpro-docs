@@ -240,7 +240,6 @@ If you [turn off traffic for this endpoint](manage-connections-from-windows-oper
 
 | Source process | Protocol | Destination |
 |:--------------:|:--------:|:------------|
-|  | HTTP   | `location-inference-westus.cloudapp.net`  |
 |  | HTTPS | `inference.location.live.net` |
 
 ## Maps
